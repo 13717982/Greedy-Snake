@@ -1,2 +1,4 @@
 # Greedy-Snake
-Simple operation ⬆️⬇️⬅️➡️ can manipulate the snake's course of action, by touching the banana 🍌 to get high score rewards.
+操作简单⬆️⬇️⬅️➡️可以操纵蛇的行动路线，通过触摸香蕉🍌获得高分奖励。
+点击以下进入项目界面，通过点击进入项目界面的点击旗子开始游戏。
+https://scratch.mit.edu/projects/725243413
